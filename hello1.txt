@@ -1,0 +1,6 @@
+class test{
+public stastic void main(string ar[])
+{
+system.out.print("hello class");
+system.out.print("hello class1");
+system.out.print("hello class2");}}
